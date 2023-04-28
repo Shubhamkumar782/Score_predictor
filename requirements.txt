@@ -6,4 +6,7 @@ scikit-learn
 catboost
 xgboost
 Flask
+dataclasses
+dill
+pickle
 -e .
